@@ -1,6 +1,6 @@
 # E-Commerce Product Page
 
-A **responsive e-commerce product page** built with **Next.js**, **TypeScript**, **Tailwind CSS**, and **React**, showcasing a premium T-shirt. Inspired by Mercado Livre, Shopee, and Amazon, it meets a technical challenge with dynamic features and a modern UI.
+A **responsive e-commerce product page** built with **Next.js**, **TypeScript**, **Tailwind CSS**, and **React**, showcasing a premium T-shirt. Inspired by Amazon it meets a technical challenge with dynamic features and a modern UI.
 
 ![Screenshot_1](https://github.com/user-attachments/assets/6e308d65-c95f-4ac9-948b-44893673f4cb)
 
