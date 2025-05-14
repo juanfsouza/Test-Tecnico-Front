@@ -56,5 +56,6 @@ A **responsive e-commerce product page** built with **Next.js**, **TypeScript**,
 git clone https://github.com/juanfsouza/Test-Tecnico-Front
 cd Test-Tecnico-Front
 ```
+---
 
 ### Deploy: https://desafio-five-ruby.vercel.app/
